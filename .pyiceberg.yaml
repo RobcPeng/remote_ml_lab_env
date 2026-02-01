@@ -1,0 +1,4 @@
+catalogs:
+  local:
+    type: hadoop
+    warehouse: /home/peng/ssd/omscs/ztm_ai_ml/pyiceberg_local
