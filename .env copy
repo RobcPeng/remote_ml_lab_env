@@ -1,4 +1,4 @@
-DB_HOST=172.22.0.9
+DB_HOST=172.22.67.67 
 DB_PORT=5432
 DB_NAME=myapp_db
 DB_USER=myapp_user
